@@ -1,0 +1,11 @@
+tests/psfAttributes
+
+Running 1 test case...
+5 4.99994
+5 4.99883
+5 5
+5 5
+5 5
+314.159 314.159
+
+*** No errors detected

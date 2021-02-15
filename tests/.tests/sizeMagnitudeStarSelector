@@ -1,0 +1,21 @@
+tests/sizeMagnitudeStarSelector
+
+Running 1 test case...
+Pol = 
+Policy:
+  purityratio: 0.05
+  starsperbin: 30
+  aperture: 5
+  startn1: 0.1
+  starfrac: 0.5
+  logsize: 0
+  maxmag: 1e+100
+  minmag: 0
+  maxsize: 1e+100
+  fitsigclip: 4
+  fitorder: 1
+  minsize: 0
+
+Successfully created selector
+
+*** No errors detected
